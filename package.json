@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ErikBackner/mongo-api/issues"
   },
-  "homepage": "https://github.com/ErikBackner/mongo-api#readme"
+  "homepage": "https://github.com/ErikBackner/mongo-api#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
